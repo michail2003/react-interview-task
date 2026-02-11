@@ -2,7 +2,7 @@
 
     1) getting the project from git to your desktop
         git clone <repo-url>
-        cd my-react-app
+        cd Test-App
 
     2) install all packages needed by running in terminal the command
         npm install
